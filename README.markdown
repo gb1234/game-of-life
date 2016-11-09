@@ -1,5 +1,5 @@
 ##########
-TESTING post commit hook
+TESTING post commit hook trigger
 more testing
 
 #####Adding to test validated merge plugin

@@ -1,6 +1,6 @@
 ##########
 TESTING post commit hook trigger
-
+hello
 #####Adding to test validated merge plugin
 This is a simple demonstration application used in the [Jenkins: The Definitive Guide](http://wakaleo.com/books/jenkins-the-definitive-guide) book.
 

@@ -9,7 +9,7 @@
     <properties>
         <target.version>0.9.22</target.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jetty.port>9090</jetty.port>
+        <jetty.port>9099</jetty.port>
         <jetty.stop.port>9999</jetty.stop.port>
         <webdriver.base.url>http://localhost:${jetty.port}</webdriver.base.url>
         <webdriver.driver>firefox</webdriver.driver>
